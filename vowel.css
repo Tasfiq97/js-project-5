@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #0c2461;
+  font-size: 62.5%;
+}
+
+.full-app .input {
+  margin-top: 10rem;
+}
+
+.full-app h1 {
+  color: white;
+}
+
+.new-alert {
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=vowel.css.map */
