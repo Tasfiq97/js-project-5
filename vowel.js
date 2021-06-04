@@ -53,7 +53,7 @@ let vowlVal= vowelCheck()
     fullResult.style.textDecoration="uppercase"
  }else if(vowlVal==0){
     fullResult.innerHTML=`<div class='alert alert-success mt-5' role='alert'>
-    <h4 class="alert-heading">Well done!</h4>`+ "Sorry!! no"+" "+`vowel ⚪
+    <h4 class="alert-heading">Well done!</h4>`+ "Sorry!!! no"+" "+`vowel ⚪
     
     </div>`
     
